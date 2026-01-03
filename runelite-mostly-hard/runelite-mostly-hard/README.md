@@ -5,7 +5,7 @@
 
 **Mostly Hard** is a RuneLite plugin built specifically for the **Mostly Hard** clan.
 - This clan is **exclusively for Hardcore Ironmen**
-- **HCGIMs are not permitted** to join
+- **HCGIMs are ofcourse allowed** to join
 
 <h2><img src="docs/iconRoles.png" style="height: 1em; vertical-align: middle;"> Live Roles </h2>
 
